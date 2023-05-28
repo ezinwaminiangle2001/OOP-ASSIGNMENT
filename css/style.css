@@ -1,0 +1,24 @@
+#header1{
+    margin: 20px 0 20px 0;
+    text-align: center;
+    border: 1px;
+    border-radius: 0.8rem;
+    -webkit-border-radius: 0.8rem;
+    -moz-border-radius: 0.8rem;
+    -ms-border-radius: 0.8rem;
+    -o-border-radius: 0.8rem;
+    background-color: rgb(37, 84, 226);
+    color: #fff;
+    font-size: 2rem;
+    padding: .5rem;
+}
+
+form{
+    padding: 2rem;
+    border-radius: 0.8rem;
+    -webkit-border-radius: 0.8rem;
+    -moz-border-radius: 0.8rem;
+    -ms-border-radius: 0.8rem;
+    -o-border-radius: 0.8rem;
+    box-shadow: 0 .3rem 1rem 0 #000;
+}
